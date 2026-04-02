@@ -17,8 +17,9 @@
 <h2 align="center">Frontend Mentor</h2>
 <p align="center">
 
-  <a href="https://github.com/Leyo-N/Simple-Recipe-Page"><img src="https://img.shields.io/badge/Newbie-Simple_Recipe_Page-brightgreen?style=flat&logo=frontendmentor
-"></a>
+  <a href="https://github.com/Leyo-N/Simple-Recipe-Page">
+  <img src="https://img.shields.io/badge/Newbie-Simple_Recipe_Page-brightgreen?style=flat&logo=frontendmentor">
+  </a>
   
 </p>
 
