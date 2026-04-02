@@ -1,4 +1,7 @@
-## Hi there 👋
+<h1 align="center">Hey👋 I'm Leyo</h1> <img width="460" height="460" alt="image" border-radius="230" src="https://github.com/user-attachments/assets/b5ffea23-17bf-4619-ae47-fcc9daff11fb">
+"
+
+<h1 align="center">About Me</h1>
 
 <!--
 **Leyo-N/Leyo-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
