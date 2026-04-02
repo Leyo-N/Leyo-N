@@ -1,6 +1,6 @@
 <h1 align="center">Hey👋 I'm Leyo</h1> 
 <h1 align="center">About Me</h1>
-<img width="260" height="260" alt="image" border-radius="230" src="https://github.com/user-attachments/assets/b5ffea23-17bf-4619-ae47-fcc9daff11fb" alt="red panda" align="right">
+<img width="130" height="130" alt="image" src="https://github.com/user-attachments/assets/b5ffea23-17bf-4619-ae47-fcc9daff11fb" alt="red panda" align="right">
 <ul>
   <li>I'm currently learning HTML, CSS, and Javascript📚</li>
   <li>I study horticulture and plant science🪴</li>
