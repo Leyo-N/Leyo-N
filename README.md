@@ -13,7 +13,7 @@
 <br>
 
 <h1 align="center">Projects</h1>
-<h2>Frontend Mentor</h2>
+<h2 align="center">Frontend Mentor</h2>
 <p align="center">
 
   <img src="https://img.shields.io/badge/newbie%20simplerecipepage-blue">
