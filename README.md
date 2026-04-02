@@ -10,6 +10,9 @@
 </ul>
 
 <p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
 <h1 align="center">Projects</h1>
 <h2 align="center">Frontend Mentor</h2>
 <p align="center">
