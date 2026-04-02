@@ -8,6 +8,7 @@
   <li>My hobbies are watching anime, gardening, listening to music, and gaming🎯</li>
 </ul>
 <br>
+<br>
 
 <h1 align="center">Projects</h1>
 <h2>Frontend Mentor</h2>
