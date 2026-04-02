@@ -20,11 +20,11 @@
   <a href="https://github.com/Leyo-N/Simple-Recipe-Page">
   <img src="https://img.shields.io/badge/Newbie-Simple_Recipe_Page-brightgreen?style=flat&logo=frontendmentor">
   </a>
-  <p>&nbsp;</p>
+  
   <a href="https://github.com/Leyo-N/social-links-profile">
   <img src="https://img.shields.io/badge/Newbie-Social_Links_Page-brightgreen?style=flat&logo=frontendmentor">
   </a>
-  <p>&nbsp;</p>
+  
   <a href="https://github.com/Leyo-N/product-preview-card">
   <img src="https://img.shields.io/badge/Newbie-Product_Preview_Card-brightgreen?style=flat&logo=frontendmentor">
   </a>
