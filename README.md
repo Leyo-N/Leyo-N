@@ -34,6 +34,10 @@
   <a href="https://github.com/Leyo-N/NFT-card">
   <img src="https://img.shields.io/badge/Newbie-NFT_Card-brightgreen?logo=frontendmentor">
   </a>
+
+  <a href="https://github.com/Leyo-N/Order-summary">
+  <img src="https://img.shields.io/badge/Newbie-Order%20Summary%20Page-brightgreen?logo=frontendmentor">
+  </a>
   
 </p>
 
