@@ -33,3 +33,11 @@
   
 </p>
 
+<h2 align="center">My Stats</h2>
+<div align="center">
+  <img src="https://ghstats.dev/api/card?username=Leyo-N&border_radius=7&custom_title=Stat+Card" alt="GitHub Stats Card">
+  <br>
+  <img src="https://ghstats.dev/api/langs?username=Leyo-N&border_radius=7&custom_title=Stat+Card" alt="Top Languages">
+  <img src="https://ghstats.dev/api/sparkline?username=Leyo-N&days=30&width=600&height=200&border_radius=7&title=Contributions+Over+Time" alt="Contribution Sparkline"> 
+</div>
+
