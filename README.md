@@ -30,6 +30,10 @@
   <a href="https://github.com/Leyo-N/product-preview-card">
   <img src="https://img.shields.io/badge/Newbie-Product_Preview_Card-brightgreen?style=flat&logo=frontendmentor">
   </a>
+
+  <a href="https://github.com/Leyo-N/NFT-card">
+  <img src="https://img.shields.io/badge/Newbie-NFT_Card-brightgreen?logo=frontendmentor">
+  </a>
   
 </p>
 
