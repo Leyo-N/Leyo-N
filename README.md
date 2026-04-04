@@ -42,6 +42,10 @@
   <a href="https://github.com/Leyo-N/Huddle-landing-page">
   <img src="https://img.shields.io/badge/Newbie-Huddle%20Landing%20Page-brightgreem?logo=frontendmentor">
   </a>
+
+  <a href="https://github.com/Leyo-N/Coming-soon-page">
+  <img src="https://img.shields.io/badge/Newbie-Base%20Apparel%20Coming%20Soon%20Page-brightgreen?logo=frontendmentor">
+  </a>
   
 </p>
 
